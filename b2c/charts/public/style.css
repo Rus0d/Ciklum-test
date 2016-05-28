@@ -1,0 +1,11 @@
+body #graph {
+    display: block;
+    position: absolute;
+    width: 90%;
+    height: 600px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
